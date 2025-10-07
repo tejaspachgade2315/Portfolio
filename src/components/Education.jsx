@@ -18,7 +18,7 @@ const data = [
   {
     year: 2025,
     title: "B.Tech (Electronics & Telecommunication Engineering)",
-    duration: "CGPA : 8.11",
+    duration: "CGPA : 8.39",
     details:
       "Shri Guru Gobind Singhji Institute of Engineering and Technology, Vishnupuri, Nanded",
   },
