@@ -20,7 +20,7 @@ const Projects = () => {
         Projects
       </h1>
       <p className="text-center text-lg py-8">
-        Greetings, I'm Tejas Pachgade. I'm a final-year B.Tech student, and this
+        Greetings, I'm Tejas Pachgade. I'm a undergraduate B.Tech student, and this
         website serves as my portfolio, exhibiting the things I've already
         created. I'm hoping you'll like it. I'm learning to be a full-stack web
         developer. I have a strong interest in open source as well as
